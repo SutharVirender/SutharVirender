@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SutharVirender
 - 👀 I’m interested in Competitive Programming and Backend Web Development.
-- 🌱 I’m currently learning node.js and express.
+- 🌱 I’m currently learning react.js and redux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
