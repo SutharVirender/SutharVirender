@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SutharVirender
 - 👀 I’m interested in Competitive Programming and Backend Web Development.
-- 🌱 I’m currently learning react.js and redux.
+- 🌱 I’m currently intern @ BharatPe
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me:- https://www.linkedin.com/in/virender-skumar
 
 <!---
 SutharVirender/SutharVirender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
